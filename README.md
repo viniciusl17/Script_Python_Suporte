@@ -7,7 +7,7 @@ Com apenas um clique, é possível realizar desde otimizações de sistema e cor
 ✨ Funcionalidades Principais
 O aplicativo é dividido em seções para facilitar o acesso às ferramentas:
 
-geral
+🌐 Geral<p>
 Reiniciar computador: Executa um reinício imediato do sistema operacional.
 Otimizar sistema: Realiza a limpeza de arquivos temporários e desfragmenta o disco.
 Flush DNS: Limpa o cache de resolução de DNS local.
