@@ -1,4 +1,4 @@
-# Suporte Técnico Anota 🤖
+# Canivetão para Suporte Técnico
 
 📝 Descrição<p>
 O Suporte Técnico Anota é uma ferramenta de utilidade para Windows, desenvolvida em Python com a interface gráfica tkinter. O objetivo deste aplicativo é centralizar e simplificar a execução de tarefas comuns de suporte técnico, manutenção e troubleshooting, oferecendo uma interface limpa e intuitiva para técnicos e usuários.
